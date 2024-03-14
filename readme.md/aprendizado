@@ -1,0 +1,11 @@
+Compreensão de Texto: As APIs de Language Cognitive Services podem ajudar a entender o texto escrito em linguagem natural. Isso inclui tarefas como identificar entidades (como pessoas, locais e datas), extrair tópicos principais, detectar sentimentos e analisar a estrutura gramatical de uma frase.
+
+Tradução Automática: Com o Azure Cognitive Services, é possível traduzir automaticamente textos de um idioma para outro. Isso é útil para aplicativos que precisam oferecer suporte a vários idiomas ou para facilitar a comunicação em ambientes multilíngues.
+
+Geração de Texto: Além de entender texto, as APIs também podem ser usadas para gerar texto de forma automatizada. Isso pode ser útil para criar respostas automáticas em chats, gerar resumos de texto ou até mesmo criar conteúdo original para sites e aplicativos.
+
+Análise de Sentimento: Com as APIs de Language Cognitive Services, é possível determinar o sentimento por trás de um texto. Isso pode ajudar a identificar a opinião dos usuários em relação a produtos, serviços ou eventos, permitindo uma análise mais profunda das interações dos clientes.
+
+Detecção de Linguagem: Essas APIs podem identificar automaticamente o idioma em que o texto está escrito. Isso é útil para lidar com conteúdo multilíngue e adaptar o processamento de texto de acordo com o idioma detectado.
+
+Análise de Discurso: Além do texto escrito, as APIs também podem processar discurso falado. Isso inclui reconhecimento de voz, tradução de fala para texto e até mesmo análise de entonação e emoção na fala.
